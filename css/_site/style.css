@@ -39,10 +39,10 @@ body {
   /* Opera 11.10+ */
   background: linear-gradient(135deg, #f857a6 10%, #ff5858 90%);
   /* W3C */
-  height: 615px;
-  overflow: hidden;}
+  height: 615px; }
 
 .quad-box {
+  margin-top: 20px;
   background-color: white;
   text-transform: uppercase; }
 
@@ -60,7 +60,6 @@ body {
   font-size: 40px;
   padding-top: 20px;
   text-transform: uppercase;
-  letter-spacing: 29px;
-  color: white;}
+  letter-spacing: 29px; }
 
 /*# sourceMappingURL=style.css.map */
