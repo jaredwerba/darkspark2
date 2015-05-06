@@ -61,8 +61,18 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcecfc', end
   letter-spacing: 29px;
   color: white;}
 
-  .paraphelion{
+.aphelion-title{
+  color: red;
+text-transform: uppercase;
+background-color: blue;
+}
+  .paraphelion {
     background-color: white;
+    padding-top: 20px;ß
   }
 
+  .paraphelion-title {
+    color: black;
+    text-transform: uppercase;
+  }
 /*# sourceMappingURL=style.css.map */
